@@ -1,7 +1,8 @@
-node_modules/
+node_modules
 
 .vite/
 
 .env
+dist
 .env.local
 .env.production

@@ -1,5 +1,5 @@
 import Login from "./Login.jsx"
-import SignUp from "./Signup.jsx"
+import SignUp from "./SignUp.jsx"
 import Home from "./Home.jsx"
 import AddPost from "./AddPost.jsx"
 import EditPost from "./EditPost.jsx"
